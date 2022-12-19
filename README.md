@@ -1,1 +1,1 @@
-# genshin
+![GITHUB PAGE](genshin.lingxiii.xyz)
