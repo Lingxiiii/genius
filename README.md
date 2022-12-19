@@ -1,1 +1,1 @@
-![GITHUB PAGE](http://genshin.lingxiii.xyz)
+<http://genshin.lingxiii.xyz>
